@@ -4,8 +4,11 @@ Projet bachelor
 Les différentes branches :
 
 -CYRIL et NICOLAS : ces branches contiennent le travail personnel de chacun.
+
 -DEV : cette branche regroupe le merge des branche Nicolas et Cyril
+
 -Level design doc : cette branche contient la documentation ainsi que quelques images permettant d'iullustrer le projet
+
 -Assets : cette branche contient les assets creer par CYRIL 
 
 
@@ -14,4 +17,4 @@ Le projet est toujours git sans le pack d'asset MODULAR HOUSE (le dossier conten
 
 
 Update : 
-La branche dev ne contient pas encore de merge car suite à un problème d'un coté, le merge c'est fait directement entre nous via clé usb
+La branche DEV contient la dernière version du prototype. Le projet est donc à récupérer depuis cette branche.
